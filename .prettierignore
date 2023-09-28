@@ -1,0 +1,13 @@
+dist
+public
+.history
+.ladle
+index.html
+*.json
+.vite
+postcss.config.js
+README.md
+tailwind.config.js
+vite.config.ts
+.eslintrc.cjs
+.prettierrc
